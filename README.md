@@ -26,7 +26,7 @@ Run 'php -S localhost:8001' in root directory <br />
 
 ## Import CSV file into DB 
 
-Hit endpoint 'http://localhost:8001/api/public/db-to-csv' 
+Hit endpoint 'http://localhost:8001/api/public/csv-to-db' 
 
 
 ## Running
