@@ -10,7 +10,7 @@ Purposely not included for this test are the following; <br />
   * Unit Tests Suite <br />
   * E2E Test Suite <br />
   * Automatically generated API documentation <br />
-  * Credentials are only included for the purposes of this test. <br />
+  * Credentials are only included in version control for the purposes of this test. <br />
  
 ## Install Dependencies 
 
