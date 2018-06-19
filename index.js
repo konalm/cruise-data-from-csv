@@ -55,9 +55,15 @@ function buildCruiseDomNode(cruise) {
       <div class="card-header"> ${cruise.offer_name} </div>
 
       <div class="card-body">
-        <p> <b>Offer Name</b>: ${cruise.offer_name} </p>
-        <p> <b>Departure Date:</b> ${cruise.departure_date} </p>
-        <p> <b>Itinerary:</b> ${cruise.itinerary} </p>
+        <div class="card-body__left pr-4">
+          <p> <b>Offer Name</b>: ${cruise.offer_name} </p>
+          <p> <b>Departure Date:</b> ${cruise.departure_date} </p>
+          <p> <b>Itinerary:</b> ${cruise.itinerary} </p>
+        </div>
+
+        <div class="card-body__right">
+          <img src="/images/${cruise.cruise_line_logo}" />
+        </div>
       </div>
     </div>`
 

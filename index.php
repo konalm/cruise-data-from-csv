@@ -5,6 +5,8 @@
     integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
     crossorigin="anonymous"
    >
+
+   <link href="/style.css" rel="stylesheet">
 </head>
 
 <body class="mt-4">
