@@ -22,7 +22,7 @@ Add your DB credentials to /api/phinxy.yml <br />
 Add your DB credentials to /api/src/settings.php  <br />
 Run 'composer db-migrate' in /api/ directory<br />
 Run 'php -S localhost:8001' in root directory <br />
-
+(if you choose to run on seperate port you will need to alter apiUrl in index.js)
 
 ## Import CSV file into DB 
 
