@@ -3,8 +3,21 @@
   justify-content: space-around;
 }
 
+.card .card-body .card-body__left {
+    flex-grow: 1;
+}
+
 .card .card-body .card-body__right {
   text-align: right;
+}
+
+.pagination {
+  max-width: 600px;
+  flex-wrap: wrap;
+}
+
+.pagination li {
+  margin-top: 15px;
 }
 
 /**
